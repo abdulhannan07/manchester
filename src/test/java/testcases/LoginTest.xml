@@ -1,0 +1,9 @@
+<suite name="Default suite">
+<test name="Default test" verbose="2">
+	<parameter name="browser" value="firefox"/>
+<classes>
+<class name="testcases.TC001_LoginTest"/>
+</classes>
+</test>
+<!--  Default test  -->
+</suite>
